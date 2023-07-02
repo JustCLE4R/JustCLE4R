@@ -16,8 +16,8 @@
 <p align="center">
   <a href="https://github.com/JustCLE4R">
     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/c35151b4-b33b-453c-bc1e-a2f3f46c139a" width="720px">
+<!--     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/175b5c8f-d4dd-44e3-af6c-309eb328bac3" width="720px"> -->
   </a>
-<!--   <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/175b5c8f-d4dd-44e3-af6c-309eb328bac3" width="720px"> -->
 </p>
 
 ---
@@ -47,7 +47,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent">
     </a>
     <a href="https://github.com/JustCLE4R">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=350)](https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=350">
     </a>
   </p>
 </details>
