@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/wavywavy.gif?raw=true" width="28px" alt="👋"></h1> 
+<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/wavywavy.gif?raw=true" width="28px"></h1> 
 <p align="center">
   <b>Welcome to my Profile!</b><br><br>
   <i>
@@ -12,9 +12,8 @@
   <a href="mailto:alex.yudistira44@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail">
   </a>
-  
+  <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.png?raw=true" width=512px align="center">
 </p>
-<img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.png?raw=true" width=512px align="center">
 
 ---
 
