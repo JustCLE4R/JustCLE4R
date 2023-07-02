@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail">
   </a>
 </p>
-
-![CLE4R Logo](https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.svg?raw=true)
+<img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.svg?raw=true" width=512px>
 
 ---
 
