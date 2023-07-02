@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/wavywavy.gif" width="28px" alt="👋"></h1> 
+<h1 align="center">Hi, I'm Yudistira! <img src="assets/wavywavy.gif" width="28px" alt="👋"></h1> 
 <p align="center">
   <b>Welcome to my Profile!</b><br><br>
   <i>
