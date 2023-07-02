@@ -14,12 +14,9 @@
 ![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=red)
 
 <details>
-  <p align="center>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustCLE4R&theme=transparent"/>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustCLE4R&theme=transparent" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
-    ![]()
-    [![GitHub Streak]()]
-    ![]()
   </p>
 </details>
