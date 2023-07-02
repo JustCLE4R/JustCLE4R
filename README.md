@@ -3,7 +3,6 @@
   <b>Welcome to my Profile!</b><br><br>
   <i>
     Junior Network Engineer.<br>
-
     Currently learning on programming fundamentals.<br>
     Open for collaboration especially on PHP language.<br>
   </i><br>
