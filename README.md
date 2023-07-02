@@ -12,10 +12,9 @@
   <a href="mailto:alex.yudistira44@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail">
   </a>
-  <br>
 </p>
 <div align="center">
-  <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/76bc2ce6-5547-4c96-aa16-b274df0d89fb" width="512px">
+  <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/76bc2ce6-5547-4c96-aa16-b274df0d89fb" width="720px">
 </div>
 
 ---
