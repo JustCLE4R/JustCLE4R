@@ -14,10 +14,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/JustCLE4R">
     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/c35151b4-b33b-453c-bc1e-a2f3f46c139a" width="720px">
 <!--     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/175b5c8f-d4dd-44e3-af6c-309eb328bac3" width="720px"> -->
-  </a>
 </p>
 
 ---
