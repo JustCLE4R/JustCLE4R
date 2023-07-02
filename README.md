@@ -1,8 +1,8 @@
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JustCLE4R)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
 [![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/JustCLE4R)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/JustCLE4R)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JustCLE4R)
 [![MySql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/JustCLE4R)
 
 ### Technologies & Frameworks
@@ -22,7 +22,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
     </a>
     <a src="https://github.com/JustCLE4R">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&card_width=338" />
     </a>
   </p>
 </details>
