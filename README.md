@@ -13,7 +13,7 @@
     ![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)
   </a>
 </p>
-----
+---
 
 ### Languages
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
