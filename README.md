@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/wavywavy.gif?raw=true" width="28px"></h1> 
+<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/01ac76c9-b2ca-4389-a064-ebfb49192964" width="28px"></h1> 
 <p align="center">
   <b>Welcome to my Profile!</b><br><br>
   <i>
     Junior Network Engineer.<br>
+
     Currently learning on programming fundamentals.<br>
     Open for collaboration especially on PHP language.<br>
   </i><br>
@@ -12,7 +13,7 @@
   <a href="mailto:alex.yudistira44@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail">
   </a>
-  <img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.png?raw=true" width=512px align="center">
+  <br><img src="https://github.com/JustCLE4R/JustCLE4R/blob/main/assets/cle4r.png?raw=true" width=512px align="center">
 </p>
 
 ---
