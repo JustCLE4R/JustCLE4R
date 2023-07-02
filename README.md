@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JustCLE4R)
 [![MySql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/JustCLE4R)
 
-### Technologies & Frameworks
+### Technologies ~~& Frameworks~~
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/JustCLE4R)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/JustCLE4R)
 
