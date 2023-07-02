@@ -15,17 +15,19 @@
 
 <details>
   <p align="center">
-    <a src="https://github.com/JustCLE4R">
+    <a href="https://github.com/JustCLE4R">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustCLE4R&theme=transparent" />
     </a>
-    <a src="https://github.com/JustCLE4R">
+    <a href="https://github.com/JustCLE4R">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
     </a>
-    <a src="https://github.com/JustCLE4R">
+    <a href="https://github.com/JustCLE4R">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=350)](https://git.io/streak-stats" />
     </a>
   </p>
   <p align="center">
-    [![View Counter](https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=flat-square)](https://github.com/JustCLE4R)
+    <a href="https://github.com/JustCLE4R">
+      <img src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=flat-square" />
+    </a>
   </p>
 </details>
