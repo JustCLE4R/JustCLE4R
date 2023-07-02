@@ -22,7 +22,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
     </a>
     <a src="https://github.com/JustCLE4R">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=370)](https://git.io/streak-stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=350)](https://git.io/streak-stats" />
     </a>
   </p>
 </details>
