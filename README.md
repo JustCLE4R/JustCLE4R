@@ -7,10 +7,10 @@
     Open for collaboration especially on PHP language.<br>
   </i><br>
   <a href="https://t.me/Yudist_ira">
-    ![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)
+    <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram">
   </a>
   <a href="mailto:alex.yudistira44@gmail.com">
-    ![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)
+    <img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail">
   </a>
 </p>
 ---
