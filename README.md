@@ -1,22 +1,28 @@
 ### Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-![MySql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JustCLE4R)
+[![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/JustCLE4R)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/JustCLE4R)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
+[![MySql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/JustCLE4R)
 
 ### Technologies & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/JustCLE4R)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/JustCLE4R)
 
 ### OS
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)
-![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=red)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/JustCLE4R)
+[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=red)](https://github.com/JustCLE4R)
 
 <details>
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustCLE4R&theme=transparent" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
+    <a src="https://github.com/JustCLE4R">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustCLE4R&theme=transparent" />
+    </a>
+    <a src="https://github.com/JustCLE4R">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustCLE4R&theme=transparent" />
+    </a>
+    <a src="https://github.com/JustCLE4R">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JustCLE4R&theme=transparent&hide_border=true" />
+    </a>
   </p>
 </details>
