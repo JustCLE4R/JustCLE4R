@@ -1,5 +1,4 @@
-<!-- h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/01ac76c9-b2ca-4389-a064-ebfb49192964" width="28px"></h1> -->
-#<p align="center">asd</p>
+<h1 align="center">Hi, I'm Yudistira! <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/01ac76c9-b2ca-4389-a064-ebfb49192964" width="28px"></h1>
 <p align="center">
   <b>Welcome to my Profile!</b><br><br>
   <i>
@@ -15,8 +14,8 @@
   </a>
 </p>
 <div align="center">
-<!--   <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/76bc2ce6-5547-4c96-aa16-b274df0d89fb" width="720px"> -->
-  <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/175b5c8f-d4dd-44e3-af6c-309eb328bac3" width="720px">
+  <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/c35151b4-b33b-453c-bc1e-a2f3f46c139a" width="720px">
+<!--   <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/175b5c8f-d4dd-44e3-af6c-309eb328bac3" width="720px"> -->
 </div>
 
 ---
