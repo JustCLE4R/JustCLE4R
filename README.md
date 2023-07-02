@@ -27,7 +27,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/JustCLE4R">
-      <img src="https://komarev.com/ghpvc/?username=your-github-username&color=lightgrey&style=flat-square" />
+      <img src="https://komarev.com/ghpvc/?username=JustCLE4R&color=lightgrey&style=for-the-badge" />
     </a>
   </p>
 </details>
