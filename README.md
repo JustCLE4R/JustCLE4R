@@ -21,6 +21,9 @@
   <a href="https://steamcommunity.com/id/cle4r">
     <img src="https://img.shields.io/badge/Steam-blue?style=flat-square&logo=steam">
   </a>
+  <a href="https://discordapp.com/users/428460226967109634">
+    <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=white">
+  </a>
 </p>
 <p align="center">
     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/c35151b4-b33b-453c-bc1e-a2f3f46c139a" width="720px">
