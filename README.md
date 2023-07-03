@@ -12,6 +12,15 @@
   <a href="mailto:alex.yudistira44@gmail.com">
     <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail">
   </a>
+  <a href="https://www.facebook.com/Dimas.Yudistira44">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/just_cle4r">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram">
+  </a>
+  <a href="https://steamcommunity.com/id/cle4r">
+    <img src="https://img.shields.io/badge/Steam-blue?style=flat-square&logo=steam">
+  </a>
 </p>
 <p align="center">
     <img src="https://github.com/JustCLE4R/JustCLE4R/assets/84244126/c35151b4-b33b-453c-bc1e-a2f3f46c139a" width="720px">
