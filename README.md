@@ -33,16 +33,20 @@
 ---
 
 ### Languages
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
-[![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/JustCLE4R)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/JustCLE4R)
+[![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus)](https://github.com/JustCLE4R)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/JustCLE4R)
+[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/JustCLE4R)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/JustCLE4R)
 [![MySql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/JustCLE4R)
 
-### Technologies ~~& Frameworks~~
+### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/JustCLE4R)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/JustCLE4R)
+[![NODE](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodedotjs)](https://github.com/JustCLE4R)
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://github.com/JustCLE4R)
 [![GIT](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://github.com/JustCLE4R)
+[![EXPRESS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/JustCLE4R)
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=blue)](https://github.com/JustCLE4R)
